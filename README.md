@@ -106,7 +106,7 @@ GOOGLE_REDIRECT_URI=http://127.0.0.1:5173/oauth2callback
 Your project structure should look like:
 
 ```
-yt-early-90s/
+yt-playlist/
 ├── index.cjs           # Main application file
 ├── package.json        # Project configuration
 ├── package-lock.json   # Dependency lock file
