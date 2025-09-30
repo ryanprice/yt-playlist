@@ -70,7 +70,7 @@ Before you begin, ensure you have:
 
 ```bash
 git clone <repository-url>
-cd yt-early-90s
+cd yt-playlist
 ```
 
 Or download and extract the project files to a folder.
