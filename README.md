@@ -1,5 +1,7 @@
 # YouTube Early 90s Playlist Generator
 
+![YouTube Playlist Generator Screenshot](images/yt-playlist.png)
+
 An automated Node.js application that creates a curated YouTube playlist of popular songs from 1990-1993. The application uses the YouTube Data API v3 to search for music videos and automatically builds a ~2-hour playlist targeting the early 90s era.
 
 ## What This Application Does
